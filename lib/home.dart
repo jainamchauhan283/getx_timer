@@ -156,6 +156,7 @@ class MyAppBar extends StatelessWidget implements PreferredSizeWidget {
     var iconTheme = Theme.of(context).iconTheme;
 
     return AppBar(
+      centerTitle: true,
       title: Text("Timer", style: textTheme.headline1),
       backgroundColor: Colors.transparent,
       elevation: 0,
