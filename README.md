@@ -3,9 +3,11 @@
 A new Flutter project.
 
 # screenshot 
+<!-- Timer 1 Image -->
+<img src="https://github.com/jainamchauhan283/getx_timer/assets/116141155/bbe4785b-945e-4eef-9eca-9de15be7ed44" alt="Timer 1" height="200" width="200"/>
+<!-- Timer 2 Image -->
+<img src="https://github.com/jainamchauhan283/getx_timer/assets/116141155/b30c7962-f88f-48b0-8305-977d95d5d146" alt="Timer 2" height="200" width="200"/>
 
-![timer1](https://github.com/jainamchauhan283/getx_timer/assets/116141155/bbe4785b-945e-4eef-9eca-9de15be7ed44)
-![timer2](https://github.com/jainamchauhan283/getx_timer/assets/116141155/b30c7962-f88f-48b0-8305-977d95d5d146)
 
 
 ## Getting Started
