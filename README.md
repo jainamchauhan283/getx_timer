@@ -4,9 +4,9 @@ A new Flutter project.
 
 # screenshot 
 <!-- Timer 1 Image -->
-<img src="https://github.com/jainamchauhan283/getx_timer/assets/116141155/bbe4785b-945e-4eef-9eca-9de15be7ed44" alt="Timer 1" width="200"/>
+<img src="https://github.com/jainamchauhan283/getx_timer/assets/116141155/bbe4785b-945e-4eef-9eca-9de15be7ed44" alt="Timer 1" width="250"/>
 <!-- Timer 2 Image -->
-<img src="https://github.com/jainamchauhan283/getx_timer/assets/116141155/b30c7962-f88f-48b0-8305-977d95d5d146" alt="Timer 2" height="500" width="200"/>
+<img src="https://github.com/jainamchauhan283/getx_timer/assets/116141155/b30c7962-f88f-48b0-8305-977d95d5d146" alt="Timer 2" width="250"/>
 
 
 
